@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773667122807",
+    "firebase_url": "https://pesan-gas.firebaseio.com",
+    "project_id": "pesan-gas",
+    "storage_bucket": "pesan-gas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773667122807:android:f65a60647fd53af29fa072",
+        "android_client_info": {
+          "package_name": "com.oldlex.pesangas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773667122807-a618k9jhn0ucg93s1t0n8e46980jp86u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oldlex.pesangas",
+            "certificate_hash": "6a69a2b4157c358193d91dbdc7b6288b1b2ee963"
+          }
+        },
+        {
+          "client_id": "773667122807-2b0vca1l893rltpvs9i0rg8ge99l2n80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIC33CuhUOmYCXplObKMOYtdF6myzQSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773667122807-2b0vca1l893rltpvs9i0rg8ge99l2n80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
